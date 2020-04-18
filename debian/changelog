@@ -1,3 +1,9 @@
+sugos-themes (1.2) himate; urgency=medium
+
+  * Menambahkan xfwm themes XFCE buat rilis "himate" stable
+
+ -- Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>  Sat, 18 Apr 2020 22:14:14 +0800 
+
 sugos-themes (1.1) himate; urgency=medium
 
   * Menambahkan Icons Bawaan buat rilis "himate" stable
