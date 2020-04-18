@@ -1,2 +1,3 @@
 # sugos-themes
-[Main] Paket Themes Bawaan SUGOS Linux Edisi Xfce
+[Main] Paket SUGOS Linux Themes Xfce Bawaan.  
+Berisi Paket Themes dan Icons Bawaan untuk Edisi Xfce

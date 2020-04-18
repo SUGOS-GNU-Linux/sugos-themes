@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sugos-X
+Comment=A Sugos Linux theme with brushed metal in Menu, based on Clearlooks Revamp, Elementary and Faenza.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sugos-X
+MetacityTheme=Sugos-X
+IconTheme=Sugos-X
+CursorTheme=default

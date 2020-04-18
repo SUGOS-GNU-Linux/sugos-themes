@@ -1,0 +1,14 @@
+Source: sugos-themes
+Section: gnome
+Priority: optional
+Maintainer: Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/SUGOS-GNU-Linux/sugos-themes
+Vcs-Browser: https://github.com/SUGOS-GNU-Linux/sugos-themes.git
+
+Package: sugos-themes
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Architecture: all
+Description: Paket Konfigurasi SUGOS Linux Themes
+ Paket Konfigurasi SUGOS Linux Themes Xfce Bawaan.
