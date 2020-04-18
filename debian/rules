@@ -4,8 +4,10 @@
 	dh ${@}
 
 override_dh_auto_build:
-	# Fix file permissions, just in case
+	# Fix file permissions, just in case (Mengatur File Permisi)
 	find Sugos-X -type f -exec chmod 0644 '{}' \;
+	find Fantasy -type f -exec chmod 0644 '{}' \;
+	find Fantasy-Dark -type f -exec chmod 0644 '{}' \;
 
 override_dh_builddeb:
 	dh_builddeb -- -Zxz -z9
